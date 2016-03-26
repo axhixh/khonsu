@@ -9,9 +9,9 @@ Run the ```khonus.py``` to generate the ```places.js``` for the leaflet heatmap.
 The generated file is placed in public directory which contains all the files.
 
 ## Demo
-Visit http://axhixh.github.io/khonus/
+Visit http://axhixh.github.io/khonsu/
 
 ## Links
 
- 1. [LeafletJS Heatmap](https://github.com/Leaflet/Leaflet.heat))
+ 1. [LeafletJS Heatmap](https://github.com/Leaflet/Leaflet.heat)
  2. [Moves App](https://www.moves-app.com/)
